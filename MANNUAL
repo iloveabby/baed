@@ -1,0 +1,25 @@
+BAED  or Basic Editor is a smiple line based text based editor using nothing but the C Standard Libary.
+
+
+
+
+USE:
+	~(insert letter coreasponding to operation)
+	Some of the operations will require numbers
+	
+	Operations:
+		Q: quit 
+		W: write 
+		A: print entire file
+		P: print a line. Requires line number
+		U: deletes the last line
+		E: edit(replace) a line. Requires line number
+		
+
+	Line editing:
+		The "edit" feature really isn't edting it's just replacing the line.
+		When you type the line number (if it exists) the program will print the line you are wanting to edit.
+		ex:"~E1
+			this is a matstake
+			this is a mistake (this line will replace the one above)"
+
