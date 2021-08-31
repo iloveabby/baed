@@ -14,6 +14,7 @@ USE:
 		P: print a line. Requires line number
 		U: deletes the last line
 		E: edit(replace) a line. Requires line number
+		L: print number of lines.
 		
 
 	Line editing:
